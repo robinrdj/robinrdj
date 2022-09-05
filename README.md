@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robinrdj
 - 👀 I’m interested in coding
-- 🌱 I’m currently working on buiding clones
+- 🌱 I’m currently working on buiding web applications
 - 💞️ I love building fullstack apps from ground up 
 - 📫 U can reach me on robinrajaduraij@gmail.com
 - I love White Boarding with Replit(https://replit.com/@RobinRajadurai)
